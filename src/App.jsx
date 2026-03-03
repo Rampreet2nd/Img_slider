@@ -34,7 +34,7 @@ function App() {
           transition: "0.5s ease"
         }}
       >
-        <Slider data={products[PN + 0]} />
+        <Slider data={products[PN + 1]} />
         <Slider data={products[PN + 1]} />
         <Slider data={products[PN + 2]} />
         <Slider data={products[PN + 3]} />
